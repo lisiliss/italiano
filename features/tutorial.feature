@@ -6,5 +6,3 @@ Feature: showing off behave
       Then behave will test it for us!
 
 
-      Givendfgdf
-sdfdssdsdf
